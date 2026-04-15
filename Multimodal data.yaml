@@ -1,0 +1,9 @@
+path: D:/YOLO-UXO/pythonProject1/ultralytics/images # dataset root dir
+train: D:/YOLO-UXO/pythonProject1/ultralytics/images/images/train # train images
+val: D:/YOLO-UXO/pythonProject1/ultralytics/images/images/val # val images
+
+# Classes
+nc: 1  # 类别数量
+names:
+  0: UXO
+
